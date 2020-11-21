@@ -1,0 +1,11 @@
+{
+  "name": "@businesscomponents29/store",
+  "version": "1.0.0",
+  "description": "EXPLICACION SENCILLA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
